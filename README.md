@@ -17,7 +17,7 @@ Lately, I’ve been diving into functional programming languages out of curiosit
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adithyacherian@gmail.com](mailto:adithyacherian@gmail.com)
 * 🧠  I'm learning Django Rest Framework
-* 🤝  I'm open to collaborating on Fascinating and Interesting Projects in Field of Machine Learning or in the Domain of Backend Development.
+* 🤝  I'm open to collaborating on Fascinating and Interesting Projects in the Field of Machine Learning or in the Domain of Backend Development.
 * ⚡  I'm love cycling and a I'm a connoisseur in the matters of coffee.
 
 ### Skills

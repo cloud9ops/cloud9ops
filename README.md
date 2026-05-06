@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500%" />
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="50%" />
+  
 # Adithya Cherian Abraham
 
 ### Machine Learning Researcher • Backend Developer • Systems Enthusiast

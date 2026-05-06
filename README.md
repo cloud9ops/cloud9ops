@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" />
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="50%" />
   
 # Adithya Cherian Abraham
 

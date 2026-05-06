@@ -69,9 +69,7 @@ As a member of the **TeX Users Group (TUG)**, I value clarity, structure, and th
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cloud9ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud9ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloud9ops&theme=tokyonight" />
 
 </div>
 

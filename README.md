@@ -1,49 +1,131 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adithya Cherian Abraham
-===============================================================================================================================================
+<div align="center">
 
-Machine Learning Researcher and Afficionado | TeX Enthusiast | Backend Framework Enthusiast
--------------------------------------------------------------------------------------------
+# Adithya Cherian Abraham
 
-About Me
+### Machine Learning Researcher • Backend Developer • Systems Enthusiast
 
-I'm a developer with a strong focus on building analytical and task-oriented tools, and a deep passion for machine learning—especially designing models that work effectively in real-world deployments. As a member of the TeX Users Group (TUG), I value clarity, structure, and thoughtful design, which reflects in both my coding and documentation practices.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Researcher;Backend+Framework+Enthusiast;TeX+User+Group+Member;Building+Analytical+Systems;Exploring+Functional+Programming" alt="Typing SVG" />
 
-I work primarily with Python and C++, enjoying the blend of expressiveness and performance they offer. My backend development work often centers around the Django REST Framework, where I enjoy crafting clean, scalable APIs that integrate seamlessly with data-driven systems.
+</div>
 
-Machine learning isn't just something I study; it's something I apply extensively. I’m particularly interested in bridging the gap between theoretical models and production-level deployment.
+---
 
-Lately, I’ve been diving into functional programming languages out of curiosity and growing admiration for their elegance and power. It’s been a refreshing perspective that’s influencing the way I think about code and system design.
+## About Me
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [adithyacherian@gmail.com](mailto:adithyacherian@gmail.com)
-* 🧠  I'm learning Django Rest Framework
-* 🤝  I'm open to collaborating on Fascinating and Interesting Projects in the Field of Machine Learning or in the Domain of Backend Development.
-* ⚡  I'm love cycling and a I'm a connoisseur in the matters of coffee.
+I'm an MCA student at **Amrita Vishwa Vidyapeetham, Mysuru**, focused on building analytical systems, scalable backend architectures, and practical machine learning solutions.
 
-### Skills
+My interests lie at the intersection of:
 
+- Machine Learning Research
+- Backend Engineering
+- Systems Design
+- Model Deployment
+- Functional Programming
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" title="Neovim"/></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" title="Vim"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" title="Flask"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+I primarily work with **Python** and **C++**, and I enjoy designing clean APIs using the **Django REST Framework**. I’m particularly interested in bridging theoretical ML concepts with production-ready deployment pipelines.
+
+As a member of the **TeX Users Group (TUG)**, I value clarity, structure, and thoughtful technical documentation.
+
+---
+
+## Current Focus
+
+- Exploring efficient ML deployment strategies
+- Backend systems with Django REST Framework
+- Functional programming paradigms
+- Research-oriented machine learning workflows
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,bash,html,css" />
 </p>
 
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,docker" />
+</p>
 
-### Socials
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/cloud9ops" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/adithya-cherian-abraham-63a13824a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### ML / Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,linux,git,vim,neovim,vscode" />
+</p>
 
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/cloud9ops"><img src="https://github-readme-stats.vercel.app/api?username=cloud9ops&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cloud9ops's GitHub stats" /></a>
+## GitHub Analytics
 
-<a href="https://github.com/cloud9ops" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud9ops&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
 
-### Support Me
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloud9ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<ul style="list-style-type: none; margin: 0;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud9ops&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/aderham"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+</div>
 
-</ul>
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cloud9ops&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/cloud9ops">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adithya-cherian-abraham-63a13824a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+</div>
+
+---
+
+## Beyond Tech
+
+- Cycling enthusiast
+- Coffee connoisseur
+- TeX and structured documentation admirer
+- Curious about programming language design and elegance
+
+---
+
+## Support
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/aderham">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “Build systems that survive reality.”
+
+</div>

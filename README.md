@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?q=80&w=1400&auto=format&fit=crop" width="100%" alt="Holographic Research Banner"/>
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Adithya%20Cherian%20Abraham&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Researcher%20%7C%20Backend%20Developer&descAlignY=55"/>
+</p>
 # Adithya Cherian Abraham
 
 ### Machine Learning Researcher • Backend Developer • Systems Enthusiast

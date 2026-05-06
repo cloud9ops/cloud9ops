@@ -1,5 +1,10 @@
 <div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50%" />
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="Glitch Holographic Banner"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=ADITHYA+CHERIAN+ABRAHAM;Machine+Learning+Researcher;Backend+Systems+Engineer" />
+
   
 # Adithya Cherian Abraham
 

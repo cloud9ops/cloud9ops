@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?q=80&w=1400&auto=format&fit=crop" width="100%" alt="Holographic Research Banner"/>
+
 # Adithya Cherian Abraham
 
 ### Machine Learning Researcher • Backend Developer • Systems Enthusiast

@@ -1,12 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=ADITHYA+CHERIAN+ABRAHAM;Machine+Learning+Researcher;Backend+Systems+Engineer;Building+Analytical+Intelligence" />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iaW5tbW85aXk4cW1wa2N5eXh1b2t5ZXV4YWxjN2R6bHJmZXFoNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" width="50%" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=cloud9ops&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50%" />
 
 # Adithya Cherian Abraham
 
